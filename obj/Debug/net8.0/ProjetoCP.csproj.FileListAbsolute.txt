@@ -1,0 +1,14 @@
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.AssemblyInfoInputs.cache
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.AssemblyInfo.cs
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.csproj.CoreCompileInputs.cache
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\bin\Debug\net8.0\ProjetoCP.exe
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\bin\Debug\net8.0\ProjetoCP.deps.json
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\bin\Debug\net8.0\ProjetoCP.runtimeconfig.json
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\bin\Debug\net8.0\ProjetoCP.dll
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\bin\Debug\net8.0\ProjetoCP.pdb
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.dll
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\refint\ProjetoCP.dll
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.pdb
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.genruntimeconfig.cache
+C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ref\ProjetoCP.dll

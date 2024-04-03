@@ -12,3 +12,17 @@ C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .N
 C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.pdb
 C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ProjetoCP.genruntimeconfig.cache
 C:\Users\Maria Eduarda\Documents\FIAP 2024\ADVANCED BUSINESS DEVELOPMENT WITH .NET\meu 2 projeto\Projeto CP\ProjetoCP\obj\Debug\net8.0\ref\ProjetoCP.dll
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\bin\Debug\net8.0\ProjetoCP.exe
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\bin\Debug\net8.0\ProjetoCP.deps.json
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\bin\Debug\net8.0\ProjetoCP.runtimeconfig.json
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\bin\Debug\net8.0\ProjetoCP.dll
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\bin\Debug\net8.0\ProjetoCP.pdb
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.AssemblyInfoInputs.cache
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.AssemblyInfo.cs
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.dll
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\refint\ProjetoCP.dll
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.pdb
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ProjetoCP.genruntimeconfig.cache
+C:\Users\User\Documents\FIAP\2 Ano\Checkpoints\.NET e C#\Checkpoint_1\ProjetoCalculoIdade\obj\Debug\net8.0\ref\ProjetoCP.dll

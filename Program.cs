@@ -5,12 +5,12 @@ class Program
     static void Main()
     {   // Pedir o nome completo
 
-        Console.WriteLine("Digite seu nome completo:");
+        Console.Write("Digite seu nome completo: ");
 
         string nome = Console.ReadLine();
 
         // Pedir a data de nascimento
-        Console.WriteLine("Digite sua data de nascimento (no formato dd/mm/aaaa):");
+        Console.Write("Digite sua data de nascimento (no formato dd/mm/aaaa): ");
 
         string dt_nascimento = Console.ReadLine();
 
@@ -21,8 +21,7 @@ class Program
         if (DateTime.TryParseExact(dt_nascimento, "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out dataNascimento))
         {
             int idade = CalcularIdade(dataNascimento);
-            Console.WriteLine("Olá," + nome + " ! " +
-                "\n sua idade é: " + idade);
+            Console.WriteLine("Olá, " + nome + "! Sua idade é: " + idade + " anos.");
         }
         else
         {

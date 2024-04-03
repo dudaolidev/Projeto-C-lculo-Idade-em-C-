@@ -22,8 +22,7 @@ Em seguida, é solicitado ao usuário sua idade, no formato "dd/mm/aaaa". Após 
 if (DateTime.TryParseExact(dt_nascimento, "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out dataNascimento))
 {
     int idade = CalcularIdade(dataNascimento);
-    Console.WriteLine("Olá," + nome + " ! " +
-        "\n sua idade é: " + idade);
+    Console.WriteLine("Olá, " + nome + "! Sua idade é: " + idade + " anos.");
 }
 else
 {
